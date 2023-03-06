@@ -1,7 +1,7 @@
 # Rain-Fall-Prediction-In-India
 Rainfall Prediction in the States of India in months of June-September
 
-The ANN-Model Predicts the rainfall of next year in the months of June-September with the accuracy of 99.08%
+The ANN-Model Predicts the rainfall of next year in the months of June-September with the accuracy of 99.08%.
 It also classify the rainfall into 3 categories of Low, Med and High.
 
 The Dataset contains the rainfall of june to september from the year 1901 to 2021.
